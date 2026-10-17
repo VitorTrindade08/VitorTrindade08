@@ -14,15 +14,6 @@
 </a>
 
 </div>
-        "Tecnologia",
-        "Programação",
-        "Desenvolvimento de projetos"
-    ],
-    objetivo: "Evoluir todos os dias como desenvolvedor",
-    mindset: "Aprender, construir e nunca parar 🚀"
-};
-
-
 Olá! Sou Vitor Trindade, apaixonado pelo universo da tecnologia e pelo potencial da programação para transformar ideias em realidade.
 
 Estou construindo minha jornada na área de desenvolvimento, aprendendo novas tecnologias e buscando evoluir a cada projeto.
