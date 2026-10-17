@@ -14,13 +14,6 @@
 </a>
 
 </div>
-
-👨‍💻 Sobre mim
-const vitor = {
-    nome: "Vitor Trindade",
-    usuario: "Vitortrindade08",
-    país: "Brasil 🇧🇷",
-    interesses: [
         "Tecnologia",
         "Programação",
         "Desenvolvimento de projetos"
